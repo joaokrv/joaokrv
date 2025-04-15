@@ -27,12 +27,15 @@
 ### 📌 Repositórios em destaque
 
 - 🐘 [**listaPHP**](https://github.com/joaokrv/listaPHP) e [**phpPOO**](https://github.com/joaokrv/phpPOO)
+
   Uma série de exercícios em PHP desenvolvidos com base no [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_). Aqui você encontra: lógica, formulários, retroalimentação e muito mais!
 
 - ☕ [**listaPOO**](https://github.com/joaokrv/listaPOO)  
+
   Exercícios focados em Programação Orientada a Objetos com Java. Ideal para treinar conceitos como classes, herança, encapsulamento e polimorfismo!
 
 - 📦 [**projetoA3**](https://github.com/joaokrv/projetoA3)  
+
   Um sistema simples de controle de estoque em Java. Projeto acadêmico que reforça a prática com orientação a objetos e estrutura de dados.
 
 ---
