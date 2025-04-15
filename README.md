@@ -2,7 +2,7 @@
 
 <p>
   Estudante de Engenharia de Software com uma paixão por aprender e codar. 🚀<br>
-  Estou aprimorando meu conhecimento em Java, PHP e HTML, sempre em busca de novos desafios. 💻<br>
+  Estou aprimorando meu conhecimento em linguagens diversas, como Java, PHP e HTML, sempre em busca de novos desafios. 💻<br>
   Curioso, persistente e prestativo, meu objetivo é me tornar um Dev FullStack respeitado e inspirador. 🌱<br>
   Estou sempre aberto a conselhos, críticas e conversas sobre meus estudos e repositórios. Vamos aprender juntos! 😄
 </p>
