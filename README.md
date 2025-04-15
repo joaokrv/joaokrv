@@ -26,7 +26,7 @@
 
 ### 📌 Repositórios em destaque
 
-- 🐘 [**listaPHP**](https://github.com/joaokrv/listaPHP)  
+- 🐘 [**listaPHP**](https://github.com/joaokrv/listaPHP) e [**phpPOO**](https://github.com/joaokrv/phpPOO)
   Uma série de exercícios em PHP desenvolvidos com base no [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_). Aqui você encontra: lógica, formulários, retroalimentação e muito mais!
 
 - ☕ [**listaPOO**](https://github.com/joaokrv/listaPOO)  
