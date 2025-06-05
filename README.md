@@ -38,6 +38,10 @@
 
   Um sistema simples de controle de estoque em Java. Projeto acadêmico que reforça a prática com orientação a objetos e estrutura de dados.
 
+- 🗺 [**Mapa UniBH**](https://github.com/joaokrv/mapa)
+
+  Projeto interativo que ajuda alunos, visitantes e professores a se localizarem no campus da UniBH. Desenvolvido com HTML, CSS, JavaScript, Leaflet e integração com Node.js para cálculo de rotas a pé usando o OpenRouteService.
+
 ---
 
 ### 📊 Estatísticas do GitHub
