@@ -33,8 +33,8 @@
 
 ### 📌 Repositórios em destaque
 
-- 🤖[**Estudos Pyhton**](https://github.com/joaokrv/estudos_python)
-  Repositório central dos meus estudos em python, com foco em IA, contendo projetos, atividades, testes, anotações e exemplos práticos.
+- 🤖[**Estudos Pyhton**](https://github.com/joaokrv/estudos_python)  
+Repositório central dos meus estudos em python, com foco em IA, contendo projetos, atividades, testes, anotações e exemplos práticos.
 
 - ☕ [**Estudos**](https://github.com/joaokrv/estudo)  
   Repositório central dos meus estudos em programação, com foco em Java, Spring, JavaScript e AngularJS. Exercícios, projetos, anotações e exemplos práticos para fixação de conceitos e evolução contínua.
