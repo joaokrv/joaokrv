@@ -33,8 +33,8 @@
 
 ### 📌 Repositórios em destaque
 
-- 🐘 [**listaPHP**](https://github.com/joaokrv/listaPHP) & [**phpPOO**](https://github.com/joaokrv/phpPOO)  
-  Exercícios e projetos em PHP, baseados no [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_). Inclui lógica, formulários, retroalimentação e conceitos de POO.
+- 🤖[**Estudos Pyhton**](https://github.com/joaokrv/estudos_python)
+  Repositório central dos meus estudos em python, com foco em IA, contendo projetos, atividades, testes, anotações e exemplos práticos.
 
 - ☕ [**Estudos**](https://github.com/joaokrv/estudo)  
   Repositório central dos meus estudos em programação, com foco em Java, Spring, JavaScript e AngularJS. Exercícios, projetos, anotações e exemplos práticos para fixação de conceitos e evolução contínua.
