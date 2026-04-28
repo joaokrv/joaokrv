@@ -42,7 +42,7 @@ Repositório central dos meus estudos em python, com foco em IA, contendo projet
 - 🗺 [**Mapa UniBH**](https://github.com/joaokrv/mapa)  
   Projeto interativo para localização no campus UniBH, desenvolvido com HTML, CSS, JavaScript, Leaflet e Node.js, integrando rotas a pé via OpenRouteService. (Atualmente offline)
 
-- 🦾 [**AI Can**](https://github.com/joaokrv/backend_ai_can/) [**Frontend**](https://github.com/devg-lustosa/frontend_ai_can)
+- 🦾 [**AI Can - Backend**](https://github.com/joaokrv/backend_ai_can/) e [**Frontend**](https://github.com/devg-lustosa/frontend_ai_can)
   Projeto com integração com o Gemini AI, recomenda treinos e refeições de pré e pós treino. Utilize do backend em Python com diversas bibliotecas como FastAPI, SQLAlchemy e outras.
 
 ---
