@@ -105,7 +105,7 @@ Sistema de navegação interativa para o campus UniBH. Cálculo de rotas, busca 
 
 ### 📫 Vamos conversar?
 
-- 🌐 **Portfólio:** [joaokrv.github.io/portf-lio](https://joaokrv.github.io/portfolio/)
+- 🌐 **Portfólio:** [joaokrv.github.io/portfolio](https://joaokrv.github.io/portfolio/)
 - 💼 **LinkedIn:** [/in/joaokrv](https://www.linkedin.com/in/joaokrv/)
 - 📷 **Instagram:** [@joaokrv](https://instagram.com/joaokrv)
 - ✉️ **Email:** [joaovictooroc@gmail.com](mailto:joaovictooroc@gmail.com)
