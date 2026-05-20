@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://joaokrv.github.io/portf-lio/">
+  <a href="https://joaokrv.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio"/>
   </a>
   <a href="https://www.linkedin.com/in/joaokrv/">
