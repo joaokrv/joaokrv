@@ -1,70 +1,114 @@
-<h1 align="center">João Victor | Estudante de Engenharia de Software</h1>
+<h1 align="center">João Victor Carvalho</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software apaixonado por tecnologia, desafios e aprendizado contínuo. 🚀<br>
-  Busco aprimorar meus conhecimentos em diversas linguagens e frameworks, como Java, Spring, PHP, HTML, CSS, JavaScript e AngularJS.<br>
-  Curioso, persistente e colaborativo, meu objetivo é me tornar um Dev FullStack respeitado e inspirador. 🌱<br>
-  Estou sempre aberto a conselhos, críticas e conversas sobre meus estudos e repositórios. Vamos aprender juntos! 😄
+  <em>Engenheiro de Software em formação · Estagiário na Group Software</em><br>
+  <strong>Em constante evolução.</strong>
+</p>
+
+<p align="center">
+  <a href="https://joaokrv.github.io/portf-lio/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joaokrv/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:joaovictooroc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo
+### 👋 Sobre mim
+
+Estou no 6º período de **Engenharia de Software** na UniBH e atuo como **estagiário em desenvolvimento na Group Software** desde julho de 2025, trabalhando com Java, Spring Boot, Angular, TypeScript, MySQL e Flutter em sistemas reais de gestão condominial.
+
+Fora do trabalho, construo projetos que **eu mesmo uso no dia a dia**. Foco em **Java/Spring e Python**, estudo arquitetura de software porque quero entender os processos por baixo — não apenas fazer funcionar, mas entender **por que funciona**.
+
+---
+
+### 🛠️ Stack
+
+**No trabalho:**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="38"/>
+</p>
+
+**Nos projetos pessoais:**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="38"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="38"/>
 </p>
 
 ---
 
-### 📌 Repositórios em destaque
+### 🚀 Projetos em destaque
 
-- 🤖[**Estudos Pyhton**](https://github.com/joaokrv/estudos_python)  
-Repositório central dos meus estudos em python, com foco em IA, contendo projetos, atividades, testes, anotações e exemplos práticos.
+#### 💜 [Equilibra](https://github.com/joaokrv/backend_equilibra) — *Em desenvolvimento ativo*
 
-- ☕ [**Estudos**](https://github.com/joaokrv/estudo)  
-  Repositório central dos meus estudos em programação, com foco em Java, Spring, JavaScript e AngularJS. Exercícios, projetos, anotações e exemplos práticos para fixação de conceitos e evolução contínua.
+Sistema de controle financeiro pessoal full stack. Substituiu minha planilha de Excel — uso diariamente e melhoro continuamente. Contas, cartões, faturas, transações, investimentos e metas, com regras reais de negócio.
 
-- 🗺 [**Mapa UniBH**](https://github.com/joaokrv/mapa)  
-  Projeto interativo para localização no campus UniBH, desenvolvido com HTML, CSS, JavaScript, Leaflet e Node.js, integrando rotas a pé via OpenRouteService. (Atualmente offline)
+**Stack:** Java 25 · Spring Boot 3.5 · PostgreSQL · JWT · React 19 · TypeScript · Tailwind 4 · TanStack Query
 
-- 🦾 [**AI Can - Backend**](https://github.com/joaokrv/backend_ai_can/) e [**Frontend**](https://github.com/devg-lustosa/frontend_ai_can)
-  Projeto com integração com o Gemini AI, recomenda treinos e refeições de pré e pós treino. Utilize do backend em Python com diversas bibliotecas como FastAPI, SQLAlchemy e outras.
+Destaques técnicos:
+- Arquitetura em camadas com fail-fast validation
+- Ghost closing de faturas + scheduler
+- Optimistic Locking (`@Version`) para concorrência
+- Testes de integração com Testcontainers
+
+> 🔗 [Backend](https://github.com/joaokrv/backend_equilibra) · [Frontend](https://github.com/joaokrv/equilibra_frontend) · [Demo](https://equilibra-frontend.vercel.app/login)
 
 ---
 
-### 📊 Estatísticas do GitHub
+#### 🤖 [AICan](https://github.com/joaokrv/backend_ai_can) — *Acadêmico · APIs gratuitas*
+
+Gerador de planos de treino personalizados com IA. Integração com Google Gemini 2.0 Flash para criar treinos e sugestões nutricionais baseados em dados físicos e preferências do usuário.
+
+**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Google Gemini · SlowAPI · JWT
+
+> 🔗 [Backend](https://github.com/joaokrv/backend_ai_can) · [Frontend](https://github.com/devg-lustosa/frontend_ai_can)
+
+---
+
+#### 🗺️ [Mapa Faculdade](https://github.com/joaokrv/mapa) — *Acadêmico · APIs gratuitas*
+
+Sistema de navegação interativa para o campus UniBH. Cálculo de rotas, busca de locais e compartilhamento via WhatsApp.
+
+**Stack:** JavaScript · Leaflet.js · OpenStreetMap · OpenRouteService · Node.js
+
+---
+
+### 📊 GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokrv&layout=compact&theme=radical"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaokrv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08080F&title_color=A78BFA&icon_color=7C3AED&text_color=9490B5"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokrv&layout=compact&theme=tokyonight&hide_border=true&bg_color=08080F&title_color=A78BFA&text_color=9490B5"/>
 </p>
-
----
-
-### 🌱 Em constante evolução
-
-Estou sempre aprendendo e registrando minha jornada aqui no GitHub.  
-Se você curte programação, fique à vontade para explorar meus projetos, dar sugestões ou trocar ideias! 😄
 
 ---
 
 ### 📫 Vamos conversar?
 
-- ✉️ Email: [joaovictooroc@gmail.com](mailto:joaovictooroc@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/joaokrv/)
+- 🌐 **Portfólio:** [joaokrv.github.io/portf-lio](https://joaokrv.github.io/portf-lio/)
+- 💼 **LinkedIn:** [/in/joaokrv](https://www.linkedin.com/in/joaokrv/)
+- 📷 **Instagram:** [@joaokrv](https://instagram.com/joaokrv)
+- ✉️ **Email:** [joaovictooroc@gmail.com](mailto:joaovictooroc@gmail.com)
 
 ---
+
+<p align="center">
+  <em>Estudando arquitetura. Entendendo os processos.</em>
+</p>
