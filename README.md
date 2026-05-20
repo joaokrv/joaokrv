@@ -94,8 +94,11 @@ Sistema de navegação interativa para o campus UniBH. Cálculo de rotas, busca 
 ### 📊 GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaokrv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08080F&title_color=A78BFA&icon_color=7C3AED&text_color=9490B5"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokrv&layout=compact&theme=tokyonight&hide_border=true&bg_color=08080F&title_color=A78BFA&text_color=9490B5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaokrv&theme=github_dark" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaokrv&theme=github_dark" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaokrv&theme=github_dark" alt="Most Commit Language"/>
 </p>
 
 ---
