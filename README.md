@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <!-- <a href="https://joaokrv.github.io/portfolio/">
+  <a href="https://joaokrv.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio"/>
-  </a> -->
+  </a>
   <a href="https://www.linkedin.com/in/joaokrv/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -105,7 +105,7 @@ Sistema de navegação interativa para o campus UniBH. Cálculo de rotas, busca 
 
 ### 📫 Vamos conversar?
 
-<!-- - 🌐 **Portfólio:** [joaokrv.github.io/portfolio](https://joaokrv.github.io/portfolio/) -->
+- 🌐 **Portfólio:** [joaokrv.github.io/portfolio](https://joaokrv.github.io/portfolio/)
 - 💼 **LinkedIn:** [/in/joaokrv](https://www.linkedin.com/in/joaokrv/)
 - 📷 **Instagram:** [@joaokrv](https://instagram.com/joaokrv)
 - ✉️ **Email:** [joaovictooroc@gmail.com](mailto:joaovictooroc@gmail.com)
