@@ -57,7 +57,7 @@ Fora do trabalho, construo projetos que **eu mesmo uso no dia a dia**. Foco em *
 
 ### 🚀 Projetos em destaque
 
-#### 💜 [Equilibra](https://github.com/joaokrv/backend_equilibra) — *Em desenvolvimento ativo*
+#### 💜 [Equilibra](https://eequilibra.vercel.app) — *Em desenvolvimento ativo*
 
 Sistema de controle financeiro pessoal full stack. Substituiu minha planilha de Excel — uso diariamente e melhoro continuamente. Contas, cartões, faturas, transações, investimentos e metas, com regras reais de negócio.
 
@@ -69,25 +69,27 @@ Destaques técnicos:
 - Optimistic Locking (`@Version`) para concorrência
 - Testes de integração com Testcontainers
 
-> 🔗 [Backend](https://github.com/joaokrv/backend_equilibra) · [Frontend](https://github.com/joaokrv/equilibra_frontend) · [Demo](https://equilibra-frontend.vercel.app/login)
+> 🔗 [Backend](https://github.com/joaokrv/backend_equilibra) · [Frontend](https://github.com/joaokrv/equilibra_frontend)
 
 ---
 
-#### 🤖 [AICan](https://github.com/joaokrv/backend_ai_can) — *Acadêmico · APIs gratuitas*
+#### 🤖 [AICan](https://aican-seven.vercel.app/) — *Acadêmico · APIs gratuitas*
 
 Gerador de planos de treino personalizados com IA. Integração com Google Gemini 2.0 Flash para criar treinos e sugestões nutricionais baseados em dados físicos e preferências do usuário.
 
 **Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Google Gemini · SlowAPI · JWT
 
-> 🔗 [Backend](https://github.com/joaokrv/backend_ai_can) · [Frontend](https://github.com/devg-lustosa/frontend_ai_can)
+> 🔗 [Backend](https://github.com/joaokrv/backend_ai_can) · [Frontend - v2](https://github.com/joaokrv/front_ai_can) · [Frontend - v1](https://github.com/devg-lustosa/frontend_ai_can)
 
 ---
 
-#### 🗺️ [Mapa Faculdade](https://github.com/joaokrv/mapa) — *Acadêmico · APIs gratuitas*
+#### 🗺️ [Mapa Faculdade]([https://github.com/joaokrv/mapa](https://mapa-two.vercel.app/)) — *Acadêmico · APIs gratuitas*
 
 Sistema de navegação interativa para o campus UniBH. Cálculo de rotas, busca de locais e compartilhamento via WhatsApp.
 
 **Stack:** JavaScript · Leaflet.js · OpenStreetMap · OpenRouteService · Node.js
+
+> 🔗 [Backend e Frontend](https://github.com/joaokrv/mapa)
 
 ---
 
