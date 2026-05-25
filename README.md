@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://joaokrv.github.io/portfolio/">
+  <a href="https://joaokrv.github.io/portf-lio/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio"/>
   </a>
   <a href="https://www.linkedin.com/in/joaokrv/">
@@ -59,15 +59,16 @@ Fora do trabalho, construo projetos que **eu mesmo uso no dia a dia**. Foco em *
 
 #### 💜 [Equilibra](https://eequilibra.vercel.app) — *Em desenvolvimento ativo*
 
-Sistema de controle financeiro pessoal full stack. Substituiu minha planilha de Excel — uso diariamente e melhoro continuamente. Contas, cartões, faturas, transações, investimentos e metas, com regras reais de negócio.
+Sistema de controle financeiro pessoal full stack. Substituiu minha planilha de Excel — uso diariamente com minha família e melhoro continuamente. Contas, cartões, faturas, transações, investimentos e metas, com regras reais de negócio.
 
 **Stack:** Java 25 · Spring Boot 3.5 · PostgreSQL · JWT · React 19 · TypeScript · Tailwind 4 · TanStack Query
 
 Destaques técnicos:
 - Arquitetura em camadas com fail-fast validation
-- Ghost closing de faturas + scheduler
-- Optimistic Locking (`@Version`) para concorrência
-- Testes de integração com Testcontainers
+- Ghost closing inline — status da fatura atualizado na consulta, sem depender de job
+- Scheduler diário com ShedLock — proteção contra execução duplicada em cluster
+- Optimistic Locking (`@Version`) para concorrência em contas, cartões e faturas
+- Testes de integração com Testcontainers e PostgreSQL real
 
 > 🔗 [Backend](https://github.com/joaokrv/backend_equilibra) · [Frontend](https://github.com/joaokrv/equilibra_frontend)
 
@@ -75,19 +76,19 @@ Destaques técnicos:
 
 #### 🤖 [AICan](https://aican-seven.vercel.app/) — *Acadêmico · APIs gratuitas*
 
-Gerador de planos de treino personalizados com IA. Integração com Google Gemini 2.0 Flash para criar treinos e sugestões nutricionais baseados em dados físicos e preferências do usuário.
+Plataforma de treino e nutrição personalizada com IA. Integração com Google Gemini 2.0 Flash para criar planos de treino e sugestões nutricionais com sistema de feedback adaptativo.
 
-**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Google Gemini · SlowAPI · JWT
+**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Google Gemini · SlowAPI · React 19 · TypeScript · Recharts
 
 > 🔗 [Backend](https://github.com/joaokrv/backend_ai_can) · [Frontend - v2](https://github.com/joaokrv/front_ai_can) · [Frontend - v1](https://github.com/devg-lustosa/frontend_ai_can)
 
 ---
 
-#### 🗺️ [Mapa Faculdade]([https://github.com/joaokrv/mapa](https://mapa-two.vercel.app/)) — *Acadêmico · APIs gratuitas*
+#### 🗺️ [Mapa Faculdade](https://mapa-two.vercel.app/) — *Acadêmico · APIs gratuitas*
 
 Sistema de navegação interativa para o campus UniBH. Cálculo de rotas, busca de locais e compartilhamento via WhatsApp.
 
-**Stack:** JavaScript · Leaflet.js · OpenStreetMap · OpenRouteService · Node.js
+**Stack:** JavaScript · Leaflet.js · OpenStreetMap · OpenRouteService · Node.js · Express
 
 > 🔗 [Backend e Frontend](https://github.com/joaokrv/mapa)
 
@@ -107,7 +108,7 @@ Sistema de navegação interativa para o campus UniBH. Cálculo de rotas, busca 
 
 ### 📫 Vamos conversar?
 
-- 🌐 **Portfólio:** [joaokrv.github.io/portfolio](https://joaokrv.github.io/portfolio/)
+- 🌐 **Portfólio:** [joaokrv.github.io/portf-lio](https://joaokrv.github.io/portf-lio/)
 - 💼 **LinkedIn:** [/in/joaokrv](https://www.linkedin.com/in/joaokrv/)
 - 📷 **Instagram:** [@joaokrv](https://instagram.com/joaokrv)
 - ✉️ **Email:** [joaovictooroc@gmail.com](mailto:joaovictooroc@gmail.com)
